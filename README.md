@@ -55,7 +55,3 @@ A full-featured blog application built with Flask, featuring user authentication
 ├── static/                # CSS, JS, and image assets
 └── posts.db               # SQLite database (auto-created on first run)
 ```
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
