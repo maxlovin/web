@@ -1,6 +1,6 @@
 # Flask Blog
 
-A full-featured blog application built with Flask, featuring user authentication, an admin-only posting system, comments, a rich text editor, and a contact form.
+A full-featured blog application built with Flask, featuring user authentication, an admin-only posting system, comments and a rich text editor.
 
 ## Features
 
